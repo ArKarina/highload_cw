@@ -32,11 +32,25 @@
 
 ### Целевая аудитория
 
-[источник](https://www.statista.com/statistics/1259905/zoom-website-traffic/),
+[Источник](https://www.statista.com/statistics/1259905/zoom-website-traffic/),
 [источник](https://www.prosperityforamerica.org/zoom-statistics/)
 показывают, что zoom имеет, приблизительно, 810 миллионов активных пользователей в месяц и 350 миллионов активных пользователей в день.
 
 ![Image alt](https://github.com/ArKarina/highload_cw/raw/main/img/Webinar.png)
 
-
 ## 2. Расчет нагрузки <a name="2"></a>
+
+## 3. Логическая схема <a name="3"></a>
+
+## 4. Физическая схема <a name="4"></a>
+
+## 5. Технологии <a name="5"></a>
+
+## 6. Схема проекта <a name="6"></a>
+
+## 7. Список серверов <a name="7"></a>
+
+## 8. Источники <a name="8"></a>
+
+1. https://www.statista.com/statistics/1259905/zoom-website-traffic/
+2. https://www.prosperityforamerica.org/zoom-statistics/
