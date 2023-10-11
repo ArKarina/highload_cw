@@ -162,6 +162,8 @@
 
 ## 5. Логическая схема БД <a name="5"></a>
 
+![Image alt](https://github.com/ArKarina/highload_cw/raw/main/img/БД.png)
+
 ## 6. Схема проекта <a name="6"></a>
 
 ## 8. Источники <a name="8"></a>
